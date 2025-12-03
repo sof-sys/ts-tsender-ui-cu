@@ -1,5 +1,5 @@
 ================================
-TS-TSENDER-UI-CU (Terminal README)
+TS-TSENDER-UI-CU 
 ================================
 
 This repository contains a Next.js + TypeScript frontend for interacting with the TSender ERC20 airdrop smart contract. The application enables users to input token addresses, recipient addresses, and amounts, and then automatically handle approvals and airdrops using the TSender contract.
